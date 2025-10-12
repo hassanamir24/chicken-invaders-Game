@@ -24,3 +24,6 @@ The game challenges the player to shoot falling chickens, dodge attacks, and sco
 ---
 
 ## 📂 Project Structure  
+Chicken-Invaders/
+│
+├── main.cpp
